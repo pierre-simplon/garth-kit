@@ -437,21 +437,21 @@ body {
       font-size: 1.1578947368rem; } }
 
 a {
-  color: #5B5BFF;
+  color: #ff5ba8;
   text-decoration: none;
   transition: color .1s, background-color .1s; }
   a:hover, a:active, a:focus {
-    color: #2828ff;
+    color: #ff288d;
     text-decoration: none; }
 
 .typeset p a, .typeset li a {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #c1c1ff 50%);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #ffc1de 50%);
   background-position: 0 93%;
   background-repeat: repeat-x;
   background-size: 100% 0.15rem;
   text-shadow: 0.1rem 0 #ffefc8, 0.15rem 0 #ffefc8, -0.1rem 0 #ffefc8, -0.15rem 0 #ffefc8; }
   .typeset p a:hover, .typeset p a:active, .typeset p a:focus, .typeset li a:hover, .typeset li a:active, .typeset li a:focus {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #8e8eff 50%); }
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #ff8ec3 50%); }
 .typeset p {
   line-height: 2rem;
   margin-bottom: 1.43999rem;
@@ -821,7 +821,7 @@ a {
 .typeset .delta + .caption, .typeset .epsilon + .caption, .typeset .zeta + .caption {
   margin-top: 0rem; }
 .typeset blockquote p {
-  border-left: 0.15rem solid #5B5BFF;
+  border-left: 0.15rem solid #ff5ba8;
   font-style: italic;
   padding-left: 1rem;
   margin-bottom: 1.87999rem;
